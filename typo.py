@@ -3,7 +3,7 @@
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
-from spellchecker import SpellChecker
+from spellchecker import pyspellchecker
 import re
 import os
 
